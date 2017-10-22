@@ -1,0 +1,611 @@
+Query word? loves 0.840123
+lovest 0.836109
+naughty 0.783818
+lovesexy 0.779289
+loving 0.778267
+stranger 0.769664
+temptress 0.768149
+heartaches 0.767725
+loveliness 0.76724
+lover 0.766221
+Query word? programs 0.883731
+programing 0.830097
+programed 0.818462
+programa 0.810769
+programm 0.806659
+programme 0.712948
+microprograms 0.703966
+microprogram 0.701343
+reprogram 0.694437
+prograph 0.685497
+Query word? cooperations 0.914323
+cooperating 0.852547
+cooperates 0.798734
+cooperatives 0.796338
+cooperated 0.78343
+cooperative 0.778239
+cooperativity 0.777753
+cooperate 0.773974
+multilateration 0.75621
+organization 0.745676
+Query word? rescues 0.828785
+rescued 0.766419
+rescuing 0.754495
+rescuer 0.72937
+assist 0.692829
+patrol 0.684361
+ambushing 0.68238
+commandeering 0.68058
+rescuers 0.680289
+homeguard 0.677476
+Query word? treasurer 0.800986
+treasurership 0.796514
+treasurers 0.776477
+exchequer 0.725827
+secretaryship 0.725619
+secretary 0.716156
+treasuries 0.697688
+archtreasurer 0.690536
+paymasters 0.683195
+comptroller 0.677483
+Query word? dealing 0.696693
+dealings 0.676035
+reneging 0.668359
+brokering 0.664099
+renegotiating 0.661459
+troubling 0.658155
+trouble 0.655949
+deals 0.654209
+renegotiate 0.650414
+renegotiated 0.646274
+Query word? intelligences 0.93183
+intelligencer 0.910897
+counterintelligence 0.89592
+elligence 0.882246
+dilligence 0.784433
+inteligence 0.774236
+humint 0.703431
+intelligently 0.698347
+sigint 0.687635
+surveilance 0.667339
+Query word? freakout 0.882717
+breakthrough 0.69938
+breakthru 0.692598
+smash 0.6687
+heartbreaking 0.668045
+blockbuster 0.667374
+jailbreak 0.665342
+starrcade 0.662716
+battlewagon 0.661216
+faceball 0.660927
+Query word? travelling 0.811103
+travell 0.773591
+travels 0.771601
+travellers 0.757429
+traveling 0.743818
+travelator 0.74015
+travelocity 0.738877
+travelers 0.736646
+traveller 0.730146
+trips 0.719336
+Query word? gates 0.812213
+gateposts 0.689981
+gately 0.660577
+tower 0.654951
+entrancing 0.648393
+entranceway 0.64318
+entrance 0.641638
+shadowgate 0.638664
+cowgate 0.637182
+entrances 0.635512
+Query word? taiwan 0.856798
+zhanjiang 0.846791
+qianjiang 0.846685
+lianjiang 0.843147
+zhenjiang 0.838026
+manchuria 0.835859
+guangxi 0.82873
+xinjiang 0.825612
+minjiang 0.825273
+jinjiang 0.825068
+Query word? airports 0.855299
+jetport 0.817373
+euroairport 0.811197
+airpark 0.798053
+iata 0.792026
+aiport 0.771222
+skyservice 0.756355
+airfield 0.743042
+airlines 0.735743
+airlinesafety 0.733146
+Query word? militaries 0.828806
+nonmilitary 0.819537
+milita 0.80078
+civilian 0.781822
+militar 0.781695
+army 0.77032
+materiel 0.76714
+militare 0.760155
+militari 0.757906
+armed 0.7415
+Query word? supported 0.805957
+upport 0.802894
+supportable 0.75972
+supports 0.75404
+insupportable 0.711976
+secure 0.683233
+supportive 0.676329
+initiative 0.668405
+lacked 0.653756
+provide 0.648543
+Query word? weeks 0.812213
+weekend 0.810838
+days 0.797154
+month 0.79283
+afternoons 0.766606
+hours 0.76353
+thursday 0.762924
+saturday 0.754132
+afternoon 0.752811
+monday 0.751921
+Query word? ebony 0.683247
+mahogany 0.675929
+macivory 0.63659
+ceram 0.630415
+seashell 0.626769
+chiffons 0.618261
+seashells 0.617857
+inlays 0.616087
+tortoiseshell 0.60604
+pearls 0.603192
+Query word? alive 0.806615
+deads 0.753547
+corpse 0.746184
+dying 0.744183
+corpses 0.733382
+zombified 0.71997
+suffocates 0.711544
+disembowelled 0.704944
+evilive 0.702022
+suffocated 0.699966
+Query word? seas 0.838926
+waters 0.808342
+ocean 0.776944
+shores 0.750968
+seawards 0.73825
+marmara 0.737615
+coasts 0.729613
+barents 0.724324
+shore 0.723927
+inland 0.722298
+Query word? dying 0.771563
+died 0.765691
+untimely 0.752244
+dies 0.749015
+disinterred 0.721462
+disappearance 0.715497
+decapitated 0.7105
+deathbed 0.707592
+illness 0.706055
+imprisoning 0.705231
+Query word? injures 0.828579
+injured 0.814315
+injuriously 0.787475
+injurious 0.771483
+paralyze 0.769002
+uninjured 0.76601
+injuria 0.759963
+injuring 0.7598
+incapacitate 0.753607
+harm 0.753197
+Query word? presidency 0.90501
+vicepresident 0.871871
+presidentti 0.858271
+presidencies 0.834275
+presidentially 0.8321
+presidents 0.820806
+presidential 0.812828
+vice 0.793683
+reelected 0.77791
+presidentes 0.768263
+Query word? airlines 0.903569
+usair 0.862174
+airlinesafety 0.860736
+airliner 0.845479
+airtran 0.840362
+airlink 0.8371
+aerom 0.836424
+prinair 0.831018
+boeing 0.829666
+lufthansa 0.815805
+Query word? winds 0.827887
+windspeeds 0.736212
+windspeed 0.72453
+rain 0.7181
+sunless 0.699794
+gusts 0.69828
+whirlwinds 0.69331
+tides 0.682912
+katabatic 0.681341
+storms 0.681083
+Query word? stocks 0.815387
+stockmarket 0.730026
+nasdaq 0.706067
+rasdaq 0.704818
+exchange 0.692876
+eurodollar 0.688824
+dividends 0.679263
+buying 0.679128
+nyse 0.67222
+market 0.671586
+Query word? chancellory 0.937786
+chancellorship 0.905268
+archchancellor 0.891986
+chancellors 0.848019
+chancelor 0.821064
+chancellery 0.813057
+exchequer 0.760093
+chancelier 0.75078
+appointment 0.745742
+treasurer 0.744732
+Query word? planes 0.80703
+spyplane 0.712607
+hyperplanes 0.708371
+hyperplane 0.705547
+airplane 0.703847
+gyroplane 0.7011
+midair 0.699812
+planed 0.691489
+crashed 0.689493
+taxiing 0.688007
+Query word? stainless 0.803902
+aluminum 0.789646
+steels 0.782847
+iron 0.77561
+plywood 0.750636
+steelwork 0.746876
+welded 0.742909
+aluminium 0.7387
+steelmaking 0.738179
+duraluminum 0.734965
+Query word? controlling 0.848146
+controled 0.805441
+controlled 0.789038
+controls 0.767625
+effectively 0.712449
+controllability 0.708853
+effecting 0.700786
+controllable 0.672089
+consolidate 0.667741
+consolidating 0.657368
+Query word? virgins 0.758569
+virgine 0.737365
+virgina 0.728571
+virginal 0.721237
+virginny 0.68457
+motherchurch 0.682174
+slimvirgin 0.680786
+virginbrand 0.66904
+immaculate 0.66492
+lucia 0.640341
+Query word? producing 0.773871
+produced 0.754019
+producting 0.751326
+postproduction 0.74802
+coproduction 0.710668
+productions 0.708064
+dieselisation 0.693646
+importin 0.693298
+refining 0.689179
+manufacturing 0.689056
+Query word? musky 0.768975
+muskmelon 0.747836
+sawbills 0.736548
+civet 0.734748
+toothfish 0.725302
+avocets 0.724356
+okapis 0.721365
+snails 0.718285
+knifefish 0.716535
+knifefishes 0.71422
+Query word? corporation 0.851373
+companies 0.825493
+subsidiary 0.808944
+subsidiaries 0.804839
+corp 0.797105
+venture 0.777221
+shareholding 0.762611
+shareholder 0.749379
+bought 0.747203
+shareholdings 0.745528
+Query word? covered 0.726647
+land 0.705605
+area 0.702758
+floodwater 0.697915
+waterplace 0.697688
+seawater 0.697373
+vapourised 0.685333
+demographics 0.677583
+groundwater 0.672116
+feedwater 0.671417
+Query word? village 0.880397
+city 0.876474
+county 0.75935
+borough 0.740348
+cdp 0.731599
+slabtown 0.727075
+cochituate 0.721721
+summertown 0.720249
+waretown 0.714524
+brownstown 0.713505
+Query word? laws 0.854691
+jurisprudence 0.733216
+legal 0.729746
+statutes 0.72261
+jurisprudential 0.716388
+jurisidiction 0.713118
+unconstitutional 0.696424
+consitution 0.695708
+unconstitutionality 0.691756
+statute 0.691316
+Query word? marinebio 0.690748
+navales 0.688736
+pomarine 0.6873
+corals 0.685115
+sealife 0.682021
+marines 0.676913
+oceanographic 0.676518
+corps 0.674504
+freshwater 0.66269
+inshore 0.662563
+Query word? repayment 0.90727
+payments 0.869828
+payable 0.862298
+repayments 0.853977
+prepayment 0.851954
+payables 0.846788
+nonpayment 0.842802
+pay 0.811715
+refunds 0.800672
+paid 0.797741
+Query word? counties 0.850546
+countiesjefferson 0.847693
+countieswashington 0.835793
+countiesjackson 0.83007
+loraincounty 0.829209
+countyname 0.815783
+township 0.806884
+minnesotaunincorporated 0.778311
+countiescharter 0.776704
+prineville 0.775542
+Query word? crashes 0.868561
+crashed 0.825044
+accident 0.772747
+crashing 0.772072
+crashers 0.71405
+mishap 0.686059
+accidents 0.685237
+aircrash 0.68489
+disaster 0.674713
+airdisaster 0.670964
+Query word? insurances 0.944312
+reinsurance 0.878685
+insurer 0.825611
+mortgage 0.819053
+mortgages 0.812288
+insured 0.80212
+brokerage 0.78115
+mortgaged 0.780626
+liabilities 0.777868
+medicare 0.777832
+Query word? town 0.876474
+urbanna 0.733993
+village 0.73213
+county 0.720601
+cities 0.71518
+browntown 0.712251
+borough 0.700122
+metropolitan 0.699067
+downtown 0.693992
+ramtown 0.691771
+Query word? unofficial 0.880816
+website 0.8578
+offical 0.857186
+inofficial 0.838316
+unoffical 0.792478
+officialy 0.772597
+nonofficial 0.768954
+homepage 0.728856
+links 0.723378
+officialsite 0.718692
+Query word? militantly 0.900878
+militants 0.877621
+extremist 0.85449
+islamist 0.848161
+extremists 0.836943
+militancy 0.817126
+islamists 0.813606
+paramilitarism 0.810855
+insurgent 0.810202
+hardline 0.800789
+Query word? capita 0.888451
+versus 0.840812
+median 0.83337
+males 0.8112
+females 0.795564
+household 0.784023
+mousehold 0.740919
+incomers 0.701218
+lapita 0.69635
+poverty 0.671795
+Query word? ebusiness 0.853053
+entrepreneurship 0.789531
+busines 0.788286
+entrepreneurial 0.776544
+firms 0.764666
+consulting 0.763504
+banking 0.763034
+accountancy 0.763027
+businesses 0.76057
+brokerage 0.760544
+Query word? urbe 0.712466
+parthica 0.70759
+ce 0.70205
+lugdunum 0.693648
+cirta 0.668676
+sogdianus 0.665678
+augustum 0.664428
+exiguus 0.663503
+langobardorum 0.663137
+ammianus 0.659908
+Query word? employees 0.823778
+employer 0.790634
+underwriter 0.784622
+insurer 0.765334
+employes 0.753561
+employement 0.747704
+brokerage 0.746917
+insurance 0.741498
+payroll 0.738889
+accountant 0.734769
+Query word? models 0.868992
+modeler 0.742065
+modele 0.741217
+modeless 0.7275
+modelling 0.711237
+modeller 0.705168
+modeling 0.672965
+supermini 0.655904
+configurational 0.655172
+qdesigner 0.654538
+Query word? bounded 0.695446
+bounders 0.668811
+boundedness 0.665796
+adjoin 0.661694
+lies 0.660414
+adjoint 0.656363
+diffeomorphic 0.656262
+topologically 0.65613
+homeomorphic 0.651407
+quasigroup 0.650523
+Query word? changes 0.841333
+changing 0.794445
+changement 0.729068
+changeup 0.723643
+reversal 0.679974
+affect 0.676109
+dictate 0.67006
+shift 0.669972
+drastic 0.667488
+reversion 0.648565
+Query word? benefits 0.873287
+benefitting 0.81741
+benefiting 0.799325
+beneficial 0.747442
+outweigh 0.720974
+detrimental 0.710504
+accrue 0.709462
+beneficiaries 0.708273
+outweighs 0.707196
+incentive 0.700299
+Query word? frozen 0.770465
+icecream 0.764167
+rinks 0.733346
+icecaps 0.718651
+snowbowl 0.713892
+floes 0.708812
+icecap 0.702456
+snowbound 0.68539
+snowbelt 0.684876
+rink 0.673204
+Query word? health 0.75104
+caregivers 0.744134
+caregiver 0.742604
+childcare 0.737799
+prehospital 0.725513
+carer 0.720677
+nursing 0.717771
+healthcare 0.714525
+caring 0.706166
+nurses 0.705905
+Query word? trumps 0.847848
+notrump 0.83289
+spades 0.795291
+upcard 0.752601
+trumpy 0.748578
+trumping 0.747945
+upcards 0.743664
+cards 0.720575
+spade 0.719371
+bidder 0.718857
+Query word? harpercollins 0.77608
+paperback 0.731355
+hardback 0.723069
+bantam 0.708582
+doubleday 0.706205
+ballantine 0.704417
+isbn 0.70338
+hardcover 0.698238
+hardcovers 0.698205
+macmillian 0.686088
+Query word? fires 0.857499
+firebolt 0.735511
+firelight 0.731315
+ablaze 0.731191
+extinguisher 0.725182
+firey 0.724737
+lightnings 0.718847
+firebreak 0.714533
+burning 0.714533
+sunfire 0.706216
+Query word? islands 0.888379
+islet 0.781927
+islandia 0.777367
+archipelago 0.767342
+cays 0.752257
+uninhabited 0.743216
+archipelagos 0.742703
+bay 0.740517
+greeceislands 0.735378
+mainland 0.734818
+Query word? flights 0.818188
+airliner 0.811252
+flew 0.79621
+flighted 0.793801
+flightpath 0.793682
+inflight 0.79284
+jetset 0.792461
+takeoff 0.789703
+aircaft 0.787419
+flown 0.786774
+Query word? demographers 0.709198
+persons 0.689768
+goans 0.680866
+transpeople 0.676114
+lians 0.675569
+americans 0.667793
+tribespeople 0.663657
+idists 0.656121
+entertainers 0.653316
+sandpeople 0.652841
+Query word? asocial 0.81036
+sociological 0.80654
+sociocultural 0.798288
+unsocial 0.790423
+socialization 0.783687
+political 0.781273
+socio 0.770042
+socialistic 0.769465
+socioeconomics 0.766738
+sociology 0.764194
+Query word? biosecurity 0.797246
+securityfocus 0.781567
+counterterrorism 0.728843
+counterterrorist 0.716096
+insecurity 0.715011
+securitate 0.714874
+securid 0.706784
+dod 0.704352
+disclosures 0.702716
+egovernment 0.701495
+Query word? 
